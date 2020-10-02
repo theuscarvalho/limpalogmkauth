@@ -1,6 +1,6 @@
 Recentemente um rapaz me contratou para realizar alguns ajustes no sistema dele..
 
-e queria que de alguma forma eu ocultasse os logs que apareciam com o usuário dele.
+e queria que de alguma forma ocultasse os logs que apareciam com o usuário dele.
 
 Segue abaixo a receita da gambiarra encontrada... 
 
